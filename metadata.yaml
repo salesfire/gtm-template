@@ -1,5 +1,5 @@
 homepage: "https://www.salesfire.co.uk"
 documentation: "https://dashboard.salesfire.co.uk/login"
 versions:
-  - sha: 4c0525356a8524a8b91ee61b565b0b6f1384ae28
+  - sha: ccbefe1a50e72b742ae6d303fa346ca11f435174
     changeNotes: Initial Release.
